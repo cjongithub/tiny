@@ -1,7 +1,7 @@
 {
-"name": "@cjonnpm/tiny",
-"version": "1.0.0",
-"description": "Removes all spaces from a string",
+  "name": "@cjonnpm/tiny",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
   "license": "MIT",
   "repository": "cjongithub/tiny",
   "main": "index.js",
